@@ -32,6 +32,22 @@ h1, h2, h3 {
     Ubuntu, Arial, sans-serif;
 }
 
+a{
+    color:#3fa6a0;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#31817d;
+    text-decoration: underline !important;
+}
+
+a:visited{
+    color:#31817d;
+    text-decoration:underline !important;
+}
+
+
 .blinking-cursor {
     font-weight: 100;
     color: #2E3D48;
