@@ -21,9 +21,16 @@ body{
     padding:2vw;
 }
 
-#navs{
+a.navs{
     margin-top:2vw;
-    text-align:center;
+}
+
+.txt-rotate{
+    color:#ab4a3b;
+}
+
+#find-me, #what-im-doing, #what\'s-next, #fun-facts{
+    background-color:#f2f2f2;
 }
 
 h1, h2, h3 {
