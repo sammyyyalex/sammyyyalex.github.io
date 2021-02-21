@@ -1,18 +1,38 @@
 body{
-    font-family: 'PT Serif', serif;
-}
-
-h1{
-    font-family: 'Poppins', sans-serif!important;
+    font-family: 'Volkhov', serif;
 }
 
 .container{
-    margin:2vw;
     padding:4vw;
 }
 
-#main-header{
-    text-align:center;
+#center-img{
+    border-radius:50%;
+    display: block;
+    text-align: center;
+    width: 50%;
+    z-index: 100;
+    min-width:79px;
+    max-width: 300px;
+}
+
+#header{
+    margin-left:2vw;
+    padding:2vw;
+}
+
+h1, h2 {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont,
+    'Segoe UI', Roboto, 'Helvetica Neue',
+    Ubuntu, Arial, sans-serif;
+}
+
+a{
+    color:#c15a4b;
+}
+
+a:hover{
+    color:#984134;
 }
 
 .blinking-cursor {
