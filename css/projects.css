@@ -6,6 +6,10 @@ img{
     text-align:center;
 }
 
-a.h2{
-    color:black !important;
+a.website-title{
+    color: black !important;
+}
+
+h2{
+    background-color: #f2f2f2;
 }
