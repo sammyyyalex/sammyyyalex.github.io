@@ -1,6 +1,7 @@
 #center-img{
     margin-left: auto;
     margin-right: auto;
+    border: .1em solid #313685;
 }
 
 h4.bio, h4{
@@ -25,7 +26,7 @@ a.links-item{
 
 .elite {
     color: #313685;
-    background-color: #FFFFFF;
+    background-color: #cae7ff;
     border: .1em solid #313685;
     text-transform: lowercase;
     padding: .25em .25em;
@@ -37,8 +38,8 @@ a.links-item{
 
 .elite:hover {
     letter-spacing: 3px;
-    color: #FFFFFF;
-    background: #313685;
+    color: #313685;
+    background: #FFFFFF;
 }
 
 button{
