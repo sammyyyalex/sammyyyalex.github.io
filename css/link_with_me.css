@@ -6,7 +6,7 @@
 #center-img:hover{
     position: relative;
     top: -5px;
-    box-shadow: 0 0 0 3px #313685;
+    box-shadow: 0 0 0 4px #313685;
 }
 
 h4.bio, h4{
