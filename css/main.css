@@ -16,6 +16,12 @@ body{
     max-width: 300px;
 }
 
+#center-img:hover{
+    position: relative;
+    top: -5px;
+    box-shadow: 0 0 0 4px #f2f2f2;
+}
+
 #header{
     margin-left:2vw;
     padding:2vw;
@@ -112,8 +118,6 @@ a:visited{
 
 .content {
     position: relative;
-    width: 90%;
-    margin: auto;
     overflow: hidden;
     min-width: 300px;
 }
