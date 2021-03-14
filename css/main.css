@@ -40,23 +40,23 @@ a.navs{
 /*}*/
 
 #find-me, .row-1{
-    background-color: #ffcccc;
+    background-color: #fbe4e4;
 }
 
 #what-im-doing, .row-2{
-    background-color: #f9dbd2;
+    background-color: #faebdd;
 }
 
 #what-i\'ve-done, .row-3{
-    background-color: #ffffcc;
+    background-color: #fbf3db;
 }
 
 #what\'s-next{
-    background-color: #d6f5d6;
+    background-color: #d4e8e1;
 }
 
 #fun-facts{
-    background-color: #ccddff;
+    background-color: #ddecf1;
 }
 
 h1, h2, h3 {
